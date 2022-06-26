@@ -1,0 +1,65 @@
+body{
+	background-image: url(7.JPG);
+	background-size: cover;
+}
+
+.login{
+	width: 320px;
+	height: 450px;
+	background-color: black;
+	margin: auto;
+	margin-top: 150px;
+	opacity: 0.6;
+}
+
+.login .profile{
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: auto;
+	border-radius: 50px;
+	top: -50px;
+}
+.login h2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	color: white;
+}
+
+.login p{
+	color: white;
+}
+
+.login input{
+	height: 25px;
+	width: 255px;
+}
+
+.login form{
+	margin-left: 30px;
+}
+
+.login .btn{
+	margin-top: 23px;
+	height: 32px;
+	width: 265px;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: #b22222;
+	color: white;
+}
+.login h5 a{
+	text-decoration: none;
+	margin-left: 120px;
+	color: white;
+}
+
+.login .profile img{
+	width: 80px;
+	height: 70px;
+	border-radius: 50px;
+	margin-left: 13px;
+	margin-top: 8px;
+}
